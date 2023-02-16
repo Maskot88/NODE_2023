@@ -4,4 +4,5 @@ class MyMath {
     static mul = (a, b) => a * b;
     static del = (a, b) => a / b;
   }
+  console.log('MyMath MyMath MyMath')
   exports.MyMath = MyMath;
